@@ -59,6 +59,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 - [Pixate](http://www.pixate.com)
 - [Cardd](https://carrd.co)
 - [Proto](https://proto.io/)
+- [Marvel App](https://marvelapp.com/)
 
 ## Unlaunched Apps
 
@@ -73,6 +74,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 - [Craft](https://www.invisionapp.com/craft)
 - [react-designer](https://github.com/fatiherikli/react-designer) A vector editor built on React
 - [Grid Style Sheets](https://gridstylesheets.org/)
+- [Framer.js](http://framerjs.com/)
 
 ### License
 
