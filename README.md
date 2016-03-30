@@ -13,7 +13,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 - [Blog Posts](#blog-posts)
 - [People](#people)
 - [Apps](#apps)
-- [Unlaunched Stuff](#unlaunched-stuff)
+- [Unlaunched Apps](#unlaunched-apps)
 - [Other](#other)
 
 <!-- /TOC -->
@@ -24,7 +24,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 - [Modern Design Tools: Using Real Data](https://medium.com/bridge-collection/modern-design-tools-using-real-data-62d499e97482)
 - [Designing for a Juicier Web](https://medium.com/@UserJourneys/designing-for-a-juicier-web-5549c6eb6008)
 - [On Tools](https://medium.com/@bjornmeansbear/on-tools-7fae8923dbe3)
-- [The Past, Present and Future of Design Tools](https://medium.com/@darrylgray/the-past-present-and-future-of-design-tools-529e83532530)
+- [The Past, Present and Future of Design Tools](https://mgedium.com/@darrylgray/the-past-present-and-future-of-design-tools-529e83532530)
 - [Design has changed, but the tools have not](https://medium.com/@darrylgray/design-has-changed-but-the-tools-have-not-168d546753ea)
 - [Guiding Principles for Design Tools](https://medium.com/@PatrickHebron/guiding-principles-for-design-tools-8a9261bd5150)
 - [Modern Design Tools: Adaptive Layouts](https://medium.com/bridge-collection/modern-design-tools-adaptive-layouts-e236070856e3)
