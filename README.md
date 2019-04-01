@@ -75,6 +75,7 @@ This is a list of all the blog posts, people, experiments, tools, services, apps
 - [react-designer](https://github.com/fatiherikli/react-designer) A vector editor built on React
 - [Grid Style Sheets](https://gridstylesheets.org/)
 - [Framer.js](http://framerjs.com/)
+- [Taskade](https://taskade.com/) Share team task, notes and chat with clients, all on the same page.
 
 ### License
 
